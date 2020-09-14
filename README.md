@@ -1,4 +1,4 @@
 # EGG TIMER
-A simple way to generate Greeting Card.
-
-You can open it with Android Studio in Computer. This app will ask some information regarding the greeting card and when you click "Create" button, it will generate a beautiful greeting card only for you.
+A simple stopwatch.
+You can easily open this on Android Studio and start working on this.
+Feel free to suggest ideas or solve any existing issue.
